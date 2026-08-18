@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@discordjs/rest": "^2.6.1",
-    "@napi-rs/canvas": "^1.0.2",
+    "@napi-rs/canvas": "^1.0.3",
     "axios": "^1.8.1",
     "decomment": "^0.9.5",
     "discord-api-types": "^0.38.53",
